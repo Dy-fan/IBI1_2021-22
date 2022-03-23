@@ -3,7 +3,7 @@
 # print all the result
 n = 0
 p = 1
-while p < 64:
+while p < 64:  # to keep cutting until there are enough pieces
     n += 1
     p = (n ** 2 + n + 2) / 2
     p = int(p)
