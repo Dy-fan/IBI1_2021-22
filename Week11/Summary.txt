@@ -1,0 +1,20 @@
+Findings:
+comparison between DLX5_HUMAN and DLX5_MOUSE:
+the score of alignment is: 1490
+the percentage of identical amino acids is: 96.54%
+
+comparison between DLX5_HUMAN and RandomSe:
+the score of alignment is: -351
+the percentage of identical amino acids is: 2.77%
+
+comparison between DLX5_MOUSE and RandomSe:
+the score of alignment is: -348
+the percentage of identical amino acids is: 3.11%
+
+interpretation:
+comparison between DLX5_HUMAN and DLX5_MOUSE showed the highest score and the percentage of identical amino acids is way
+much higher than the other two, indicating there is great similarity between human and mouse DLX5 gene.
+This similarity may indicate that these two, human and mouse, might evolve from the same species very long ago.
+The similarity between random sequence and human or mouse gene is quite low, which may indicate that high similarity
+between mouse and human gene here is not a random outcome. The sequence of gene encode certain protein in these two
+might follow certain pattern.

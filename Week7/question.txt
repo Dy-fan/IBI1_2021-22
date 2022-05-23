@@ -1,0 +1,20 @@
+Question：
+Are there places in theWorld where there have not yet been more than 10 total infections(as of 31 March)?
+If so, where are they?
+
+Line number: 42-49
+
+Answer:
+Yes, there are places in theWorld where there have not yet been more than 10 total infections.
+The places are as followed in the list. The number of them is 42.
+['Angola', 'Anguilla', 'Antigua and Barbuda', 'Belize', 'Benin', 'Bhutan', 'British Virgin Islands', 'Cape Verde',
+'Central African Republic', 'Chad', 'Falkland Islands', 'Fiji', 'Gabon', 'Gambia', 'Greenland', 'Grenada',
+'Guinea-Bissau', 'Guyana', 'Laos', 'Liberia', 'Libya', 'Mariana Islands', 'Mauritania', 'Montserrat', 'Mozambique',
+'Nepal', 'Nicaragua', 'Papua New Guinea', 'Saint Kitts and Nevis', 'Saint Lucia', 'Saint Vincent and the Grenadines',
+'Seychelles', 'Somalia', 'South Sudan', 'Sudan', 'Suriname', 'Swaziland', 'Syria', 'Timor', 'Turks and Caicos Islands',
+'Vatican', 'Zimbabwe']
+
+I did not expect there are so many places that have only this few infections.
+The reason why these places only have few infections may be that these places only have small population and are very
+small in scale. These places may be quite remote and the transportation is not good, so few people would come, not to
+mention infected ones, thereby the overall number of infections is quite low.
