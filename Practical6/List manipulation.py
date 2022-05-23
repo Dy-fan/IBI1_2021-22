@@ -15,6 +15,8 @@ plt.boxplot(marks,
             boxprops={'facecolor': 'cyan', 'edgecolor': 'black'},
             patch_artist=True)
 plt.title('boxplot for marks of Rob')  # add the boxplot a title
+plt.ylabel('marks')
+plt.xlabel('Student Rob')
 plt.show()
 
 # calculate the average of the 8 marks using loop
